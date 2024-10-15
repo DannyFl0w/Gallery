@@ -13,7 +13,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #c670ba;
 }
 
 .logo {
@@ -73,7 +73,7 @@ main {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #fb88f9;
 }
 .wrapper {
     display: inline-flex;
